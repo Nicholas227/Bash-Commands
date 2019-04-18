@@ -1,0 +1,4 @@
+#!/bin/bash
+
+osascript /Users/nick/Documents/txtPerson.applescript
+echo "Texting person"
