@@ -9,3 +9,4 @@ How To:
 6. Create a new alias e.g. alias print-hello='/Users/nick/Documents/FirstScript'
 7. Source the bash file
 8. Run the command
+(Optionally, for applescript commands for OS users, you may use osascript and create files with a .applescript extension)
