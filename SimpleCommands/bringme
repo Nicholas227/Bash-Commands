@@ -1,0 +1,5 @@
+#!/bin/bash
+
+filename=$1
+currentDirectory=$2
+find ~ -type f -iname "$filename" -exec cp -v {} $currentDirectory \;
